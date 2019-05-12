@@ -9,12 +9,13 @@
 
 .first image {
     width: 20%; 
-    float: left; 
+    float: top; 
     margin : 5px;
 
 }
 
 .ol {
+    float: center;
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
 }
