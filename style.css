@@ -15,7 +15,7 @@
 }
 
 .ol {
-    float: right;
+    text-indent: 2em;
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
 }
